@@ -11,7 +11,7 @@
             <div class="download-btn">
               <router-link to="/download" class="btn"><i class="el-icon-download"></i>下载应用</router-link>
             </div>
-            <p class="version-info">当前版本v1.1.5于2019年11月6日发布
+            <p class="version-info">当前版本v1.1.6于2019年11月12日发布
             </p>
           </el-col>
           <el-col :span="14">

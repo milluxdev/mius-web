@@ -2,6 +2,13 @@
     <div class="container">
         <div class="changelog">
             <el-timeline>
+                <el-timeline-item timestamp="2019/11/12" placement="top">
+                    <el-card>
+                        <h3>Mius v1.1.6 版本新增功能</h3>
+                        <p>1. 多语言设置</p>
+                        <p>2. 英文环境新增YGOCC以及NO81服务器</p>
+                    </el-card>
+                </el-timeline-item>
                 <el-timeline-item timestamp="2019/11/6" placement="top">
                     <el-card>
                         <h3>Mius v1.1.5 版本新增功能</h3>
