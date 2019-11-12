@@ -42,7 +42,7 @@
     },
     methods: {
       download() {
-        window.location.href = 'https://mius-1252282306.cos.ap-shanghai.myqcloud.com/win32/mius%20Setup%201.1.5.exe'
+        window.location.href = 'https://mius-1252282306.cos.ap-shanghai.myqcloud.com/win32/Mius-Setup.exe'
       }
     }
   }
